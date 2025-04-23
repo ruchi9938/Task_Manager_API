@@ -81,4 +81,4 @@ You are free to use, modify, and distribute this software with proper attributio
 
 ## ✨ Author
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Subhashri
